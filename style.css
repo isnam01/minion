@@ -53,8 +53,6 @@ textarea {
     display:flex;
     flex-wrap:wrap;
     background-color:#f7dd3a ;
-    margin-bottom: 0;
-    height:12vh;
     font-size: 17px;
     font-weight: 900;
     color:rgb(75, 75, 231);
