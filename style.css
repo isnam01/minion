@@ -50,6 +50,8 @@ textarea {
 }
 
 .footer{
+    display:flex;
+    flex-wrap:wrap;
     background-color:#f7dd3a ;
     margin-bottom: 0;
     height:12vh;
