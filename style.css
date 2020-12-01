@@ -51,6 +51,7 @@ textarea {
 
 .footer{
     display: block;
+    min-height:20px;
     background-color:#f7dd3a ;
     font-size: 17px;
     font-weight: 900;
@@ -58,15 +59,5 @@ textarea {
     padding: 5px;
     font-family: 'MuseoModerno', cursive;
 
-}
-.footer pre{
-       text-align: center;
-    font-family: 'Gochi Hand', cursive;
-    /* font-family: 'Caveat', cursive; */
-    font-size: 1.2rem;
-    color: #F5E050;
-    width: 80%;
-    margin: auto;
-    padding-bottom: 1rem;
 }
     
