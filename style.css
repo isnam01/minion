@@ -50,8 +50,6 @@ textarea {
 }
 
 .footer{
-    display:flex;
-    flex-wrap:wrap;
     background-color:#f7dd3a ;
     font-size: 17px;
     font-weight: 900;
