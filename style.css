@@ -62,7 +62,13 @@ textarea {
 
 }
 .footer pre{
-    display:flex;
-    flex-wrap:wrap;
+       text-align: center;
+    font-family: 'Gochi Hand', cursive;
+    /* font-family: 'Caveat', cursive; */
+    font-size: 1.2rem;
+    color: #F5E050;
+    width: 80%;
+    margin: auto;
+    padding-bottom: 1rem;
 }
     
