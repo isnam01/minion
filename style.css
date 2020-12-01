@@ -56,7 +56,8 @@ textarea {
     font-size: 17px;
     font-weight: 900;
     color:rgb(75, 75, 231);
-     white-space: pre-line;
+     word-wrap    : break-word;
+overflow-wrap: break-word;
     padding: 5px;
     font-family: 'MuseoModerno', cursive;
 
